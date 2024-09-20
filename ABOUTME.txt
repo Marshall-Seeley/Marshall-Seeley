@@ -1,0 +1,12 @@
+-  Hi, I’m Marshall Seeley!
+-  I’m interested in LEGOs, Video Games, Drawing, and Pixel Art.
+-  I’m currently learning Python (I also want to get better at Game Maker)
+-  I’m looking to collaborate on nothing for the time being.
+-  How to reach me mseeley26@cpatech.org (Microsoft Outlook)
+-  Pronouns: He/Him
+-  Fun fact: Sharks are awesome and should be respected.
+
+<!---
+Marshall-Seeley/Marshall-Seeley is a special repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
